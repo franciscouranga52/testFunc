@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='pip-package-demo', ##name of repo enclosing folder (pip-package-demo)
-    version='0.0.2',
+    version='0.0.3',
     author='Francisco Uranga', ## your name
     author_email='francisco.c.uranga@gmail.com', ## your email
-    description='Demo on pip package creation', ## description of package
+    description='Math functions i use a lot', ## description of package
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/franciscouranga52/testFunc',# url to repo
