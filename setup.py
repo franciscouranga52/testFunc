@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='pip-package-demo', ##name of repo enclosing folder (pip-package-demo)
-    version='0.0.4',
+    version='0.0.5',
     author='Francisco Uranga', ## your name
     author_email='francisco.c.uranga@gmail.com', ## your email
     description='Math functions i use a lot', ## description of package
